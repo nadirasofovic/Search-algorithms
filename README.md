@@ -4,7 +4,7 @@ This repository contains implementations of several search algorithms used in gr
 
 - **Depth-First Search (DFS)**
 - **Breadth-First Search (BFS)**
-- **A* Search** (with both Manhattan and Euclidean heuristics)
+- ***A* Search** (with both Manhattan and Euclidean heuristics)
 
 These algorithms are commonly used in a variety of applications, including puzzle-solving, pathfinding in games, network routing, and more.
 
